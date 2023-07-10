@@ -278,5 +278,5 @@ with tab2:
             
 with tab3:
     st.header("Tổng hợp tin tức báo chí")
-    news_df = pd.read_csv('data/news_dataset.csv')
-    st.dataframe(news_df)   
+    # news_df = pd.read_csv('data/news_dataset.csv')
+    # st.dataframe(news_df)   
