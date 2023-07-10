@@ -1,0 +1,5 @@
+Lãi suất:lãi suất,lãi trần,giảm trần,lãi vay vốn,tái cấp vốn
+Chính sách tiền tệ:Chính sách tiền tệ,chính sách ngoại hối,chính sách điều hành,chính sách cung tiền,chính sách nới lỏng,chính sách kiểm soát lạm phát
+Chính sách tài khóa:chính sách tài khóa,ngân sách quốc gia,chính sách thu ngân sách,chính sách chi ngân sách,chính sách thuế,chính sách nợ công
+Dự trữ bắt buộc:dự trữ bắt buộc,giảm chi phí huy động vốn
+Tăng trưởng tín dụng:tăng trưởng tín dụng,hoạt động tín dụng,hạn mức cho vay,giới hạn cho vay
