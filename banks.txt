@@ -1,6 +1,6 @@
 Ngân hàng HDBank:HDBank,Ngân hàng thương mại cổ phần Phát triển Thành phố Hồ Chí Minh,Ngân hàng TMCP Phát triển TP Hồ Chí Minh
 Ngân hàng MSB:Ngân hàng MSB,MSB Bank,MSBBank,Ngân hàng Hàng hải,MSB
-Ngân hàng Phương Đông:Ngân hàng Phương Đông
+Ngân hàng Phương Đông:Ngân hàng Phương Đông,OCB
 Ngân hàng Techcombank:Techcombank,TMCP Kỹ thương Việt Nam
 Ngân hàng Tiên Phong:Tien Phong Bank,TPBank,TP Bank,Ngân hàng Tiên Phong
 Ngân hàng VIB:VIBBank,Ngân hàng Quốc tế VIB
