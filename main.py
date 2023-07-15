@@ -26,7 +26,7 @@ cafef_url = 'https://cafef.vn/'
 vneconomy_url = 'https://vneconomy.vn/'
 vnexpress_url = 'https://vnexpress.net/'
 
-with open('topics_keywords.txt', encoding='utf-8') as fr:
+with open('topics_keywords_11_7.txt', encoding='utf-8') as fr:
     lines = fr.readlines()
     lines = [line.strip() for line in lines]    
     topics_keywords = []

@@ -1,0 +1,13 @@
+Tăng trưởng tín dụng - Cung tiền:Tăng trưởng tín dụng,Tăng trưởng cung tiền,Tương quan tăng trưởng tín dụng và cung tiền,Bẫy thanh khoản,Tín dụng ngân hàng,Chính sách tín dụng,Chính sách cung tiền
+Điều hành chính sách NHNN:Thay đổi thông tư,Ban hành quy định mới,Điều tiết thị trường
+Vai trò của các công cụ điều tiết:Dự trữ bắt buộc,Lãi suất thị trường 1,Thị trường OMO,Lãi suất điều hành
+An toàn của hệ thống:An toàn hệ thống,Duy trì tính ổn định của hệ thống NH
+Tiền gửi tiết kiệm:Ngân hàng tung ra sản phẩm mới,Kênh tiết kiệm hút dòng tiền,Thay đổi kỳ hạn tiền gửi,Tăng lãi suất huy động,Giảm lãi suất huy động
+Sản phẩm vay:Tăng lãi suất vay,Giảm lãi suất vay,Tung gói vay
+SP dịch vụ:Thẻ thanh toán,Thẻ ATM,Thẻ tín dụng,Dịch vụ thanh toán,Ngân hàng điện tử,Ngân hàng số,Bancassurance,Bảo hiểm nhân thọ
+Số hóa hoạt động:Đầu tư số hóa,Đầu tư công nghệ,Cảm ứng,Số hóa quy trình
+Vốn ngân hàng:Vốn tự có,Hệ số CAR,Đáp ứng yêu cầu về vốn,Chia cổ tức bằng cổ phiếu,Giữ lại lơi nhuận
+Hiệu quả kinh doanh:NIM,ROE,ROA,Thu nhập từ hoạt động tín dụng,Trích lập dự phòng,Thu nhập từ hoạt động phi tín dụng,Thu nhập từ hoạt động đầu tư
+Nợ xấu:Xu hướng nợ xấu,Khả năng trả nợ
+Thanh khoản:Quản lý thanh khoản,Khả năng chi trả
+Chất lượng quản trị:Hiệu quả quản trị,Hiệu quả điều hành,Kế nhiệm,Nhân sự cấp cao,Hiệu quả hoạt động
